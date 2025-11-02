@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Kmal4li/Akmal4li.github.io/static/css/main.a12ad0eb.css",
-    "main.js": "/Kmal4li/Akmal4li.github.io/static/js/main.23bff16f.js",
-    "static/js/453.41811d64.chunk.js": "/Kmal4li/Akmal4li.github.io/static/js/453.41811d64.chunk.js",
-    "static/media/profile.jpg": "/Kmal4li/Akmal4li.github.io/static/media/profile.b70cd550267a5b5ea277.jpg",
-    "static/media/bg-light.png": "/Kmal4li/Akmal4li.github.io/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/Kmal4li/Akmal4li.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/absensiprojek.png": "/Kmal4li/Akmal4li.github.io/static/media/absensiprojek.3f973ad5cf15f442a21e.png",
-    "index.html": "/Kmal4li/Akmal4li.github.io/index.html",
-    "main.a12ad0eb.css.map": "/Kmal4li/Akmal4li.github.io/static/css/main.a12ad0eb.css.map",
-    "main.23bff16f.js.map": "/Kmal4li/Akmal4li.github.io/static/js/main.23bff16f.js.map",
-    "453.41811d64.chunk.js.map": "/Kmal4li/Akmal4li.github.io/static/js/453.41811d64.chunk.js.map"
+    "main.css": "/kmal4li.github.io/Akmal4li.github.io/static/css/main.d1d1588d.css",
+    "main.js": "/kmal4li.github.io/Akmal4li.github.io/static/js/main.8d8c92d3.js",
+    "static/js/453.41811d64.chunk.js": "/kmal4li.github.io/Akmal4li.github.io/static/js/453.41811d64.chunk.js",
+    "static/media/profile.jpg": "/kmal4li.github.io/Akmal4li.github.io/static/media/profile.b70cd550267a5b5ea277.jpg",
+    "static/media/bg-light.png": "/kmal4li.github.io/Akmal4li.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/kmal4li.github.io/Akmal4li.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/absensiprojek.png": "/kmal4li.github.io/Akmal4li.github.io/static/media/absensiprojek.3f973ad5cf15f442a21e.png",
+    "index.html": "/kmal4li.github.io/Akmal4li.github.io/index.html",
+    "main.d1d1588d.css.map": "/kmal4li.github.io/Akmal4li.github.io/static/css/main.d1d1588d.css.map",
+    "main.8d8c92d3.js.map": "/kmal4li.github.io/Akmal4li.github.io/static/js/main.8d8c92d3.js.map",
+    "453.41811d64.chunk.js.map": "/kmal4li.github.io/Akmal4li.github.io/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a12ad0eb.css",
-    "static/js/main.23bff16f.js"
+    "static/css/main.d1d1588d.css",
+    "static/js/main.8d8c92d3.js"
   ]
 }
