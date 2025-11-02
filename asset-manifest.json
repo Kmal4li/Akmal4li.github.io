@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/4Kmal4li.github.io/static/css/main.80a41045.css",
+    "main.js": "/4Kmal4li.github.io/static/js/main.09f3e173.js",
+    "static/js/453.41811d64.chunk.js": "/4Kmal4li.github.io/static/js/453.41811d64.chunk.js",
+    "static/media/profile.jpg": "/4Kmal4li.github.io/static/media/profile.b70cd550267a5b5ea277.jpg",
+    "static/media/bg-light.png": "/4Kmal4li.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/4Kmal4li.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/absensiprojek.png": "/4Kmal4li.github.io/static/media/absensiprojek.3f973ad5cf15f442a21e.png",
+    "index.html": "/4Kmal4li.github.io/index.html",
+    "main.80a41045.css.map": "/4Kmal4li.github.io/static/css/main.80a41045.css.map",
+    "main.09f3e173.js.map": "/4Kmal4li.github.io/static/js/main.09f3e173.js.map",
+    "453.41811d64.chunk.js.map": "/4Kmal4li.github.io/static/js/453.41811d64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a41045.css",
+    "static/js/main.09f3e173.js"
+  ]
+}
